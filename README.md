@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **flutter,Dart,c++,c,python**
+- 🌱 I’m currently learning **flutter,Dart,c++,c,python,HTML,JAVA,CSS,JAVASCRIPT,SPRINGBOOT.MYSql**
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **pravinnavi143@gmail.com**
+- 📫 How to reach me **pravinnavi60@gmail.com**
 
 - ⚡ Fun fact **Thinking Out of the Box**
 
